@@ -1,0 +1,23 @@
+#img1 {
+	width: 200px
+}
+p.pop	{
+	color: white; 
+	width: 200px;
+	height: 200px;
+	background: red;
+}
+
+p.pop_2	{
+	color: black; 
+	width: 200px;
+	height: 200px;
+	background: yellow;
+}
+
+p.pop_3	{
+	color: white; 
+	width: 200px;
+	height: 200px;
+	background: green;
+}
